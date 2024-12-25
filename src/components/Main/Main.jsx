@@ -1,6 +1,6 @@
 import React, { useContext, useState } from "react";
 import { assets } from "../../assets/assets.js";
-import "./main.css";
+import "./Main.css";
 import ContextProvider, { Context } from "../../context/Context.jsx";
 import Login from "./login.jsx";
 
